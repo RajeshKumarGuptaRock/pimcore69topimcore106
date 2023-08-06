@@ -1,6 +1,6 @@
 <?php
 
-namespace AppBundle\Controller;
+namespace Controller;
 
 use Pimcore\Controller\FrontendController;
 use Symfony\Component\HttpFoundation\Request;

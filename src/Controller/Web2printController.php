@@ -13,7 +13,7 @@
  *  @license    http://www.pimcore.org/license     GPLv3 and PEL
  */
 
-namespace App\Controller;
+namespace Controller;
 
 use Pimcore\Controller\FrontendController;
 use Pimcore\Model\Document\Hardlink;
